@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="meta">{{ . }}</p>{{ end }}
+  <ul style="list-style:none; margin:2rem 0 0; padding:0;">
+    {{ range .Pages.ByDate.Reverse }}
+    <li style="padding: 1.25rem 0; border-bottom: 1px solid var(--border);">
+      <a href="{{ .RelPermalink }}" style="font-weight:600; font-size:1.05rem;">{{ .Title }}</a>
+      {{ with .Date }}<p class="meta" style="margin:0.25rem 0 0;">{{ . | time.Format "January 2, 2006" }}</p>{{ end }}
+      {{ with .Summary }}<p style="margin:0.5rem 0 0; color: var(--text-secondary); font-size:0.95rem;">{{ . }}</p>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}

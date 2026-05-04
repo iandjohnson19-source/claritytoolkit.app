@@ -1,0 +1,12 @@
+baseURL = "https://claritytoolkit.app/"
+locale = "en-us"
+title = "ClarityToolkit"
+
+[params]
+  description = "Privacy-first iOS apps by Ian Johnson"
+  author = "Ian Johnson"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
