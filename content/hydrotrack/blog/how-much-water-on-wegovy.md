@@ -2,7 +2,7 @@
 title: "How Much Water Do You Actually Need on Wegovy?"
 description: "The 8 glasses a day rule was never evidence-based. Here's how to calculate a real hydration goal if you're on Wegovy or another GLP-1 medication."
 date: 2026-05-04
-draft: true
+draft: false
 ---
 
 "Eight glasses a day" has been repeated so many times it feels like medical fact. It isn't. It's a rough heuristic from a 1945 Food and Nutrition Board report that most people misread — the same document noted that most of that water comes from food. The actual science on hydration is more nuanced, and more useful.

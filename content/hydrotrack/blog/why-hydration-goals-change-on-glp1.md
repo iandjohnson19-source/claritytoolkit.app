@@ -2,7 +2,7 @@
 title: "Why Your Hydration Goal Should Change as You Lose Weight on GLP-1"
 description: "Most hydration apps set your water goal once and never update it. Here's why that's a problem if you're losing weight on Ozempic, Wegovy, or Mounjaro — and how to fix it."
 date: 2026-05-04
-draft: true
+draft: false
 ---
 
 Most hydration apps ask your weight once during setup and never touch it again. If you're losing 1–2 pounds a week on a GLP-1 medication, that static goal is already wrong by week three.
@@ -33,7 +33,9 @@ GLP-1 receptor agonists (Ozempic, Wegovy, Mounjaro/Zepbound) work partly by slow
 
 Your goal should recalculate every time your logged weight changes. Not weekly. Not monthly. Every time.
 
-[TODO: expand with how HydroTrack handles this specifically — weight input → algorithm recalculation → new goal displayed]
+HydroTrack uses a weight-based formula — 35 mL per kg of body weight as the baseline — and recalculates your daily target every time you update your weight in the app. If you drop from 230 lbs to 210 lbs over six weeks, your goal adjusts automatically. You don't have to remember to revisit a settings screen; the number shown on your ring is always based on your current weight.
+
+The formula also accounts for biological sex (males have a higher baseline), life stage (pregnancy and lactation increase needs significantly), altitude (above 2,500 m, respiratory water loss increases), climate (hot or humid conditions add a multiplier), and today's activity. The result is a number that reflects your actual situation — not a static default that made sense in January.
 
 ## The practical takeaway
 

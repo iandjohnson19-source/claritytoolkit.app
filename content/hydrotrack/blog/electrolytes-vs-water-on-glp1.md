@@ -2,7 +2,7 @@
 title: "Electrolytes vs. Water on GLP-1 Medications: What You Actually Need"
 description: "Sports drinks and electrolyte powders are everywhere in GLP-1 communities. Do you need them, or is water enough? Here's a clear-eyed look."
 date: 2026-05-04
-draft: true
+draft: false
 ---
 
 Scroll through any GLP-1 subreddit and you'll see electrolyte powders, drinks, and supplements recommended constantly. Some of it is good advice. Some of it is marketing. Here's how to think about whether you actually need electrolytes — and when plain water isn't enough.
@@ -33,7 +33,20 @@ The electrolyte powder industry has found a receptive audience in GLP-1 communit
 
 Different drinks hydrate differently. Milk hydrates better than water (the protein and fat slow absorption, improving retention). Sports drinks are roughly equivalent to water with some electrolytes. Alcohol and high-caffeine drinks are mildly dehydrating.
 
-[TODO: add a table of common drinks and their hydration equivalents]
+Different beverages contribute differently to your net hydration. This is based on osmolality and absorption rate:
+
+| Drink | Hydration relative to water |
+|---|---|
+| Oral rehydration solution (ORS) | ~150% — absorbed faster than plain water |
+| Milk (whole or skim) | ~130% — protein and fat slow gastric emptying, improving retention |
+| Water | 100% — baseline |
+| Sports drinks (e.g. Gatorade) | ~100% — roughly equivalent to water with electrolytes |
+| Juice | ~100% — counts, though added sugar is a separate consideration |
+| Coffee / tea | ~100% — the diuretic effect is real but smaller than the fluid content |
+| Soda | ~90% — carbonation and caffeine mildly reduce net hydration |
+| Beer | ~80% — alcohol is a diuretic; beer contributes fluid but at a net deficit |
+
+The practical implication: your morning coffee counts. A glass of milk counts more than a glass of water. A beer counts less. An app that treats all drinks identically is giving you an inaccurate picture of where you actually stand.
 
 ## Practical guidance
 

@@ -2,7 +2,7 @@
 title: "Hydration Tracking for Your First 90 Days on a GLP-1"
 description: "The first 90 days on Ozempic, Wegovy, Mounjaro, or Zepbound are the highest-risk period for dehydration. Here's a practical guide to staying on top of it."
 date: 2026-05-04
-draft: true
+draft: false
 ---
 
 The first 90 days on a GLP-1 medication are unlike the rest of your time on the drug. Side effects are most intense, dose adjustments are happening, and your eating patterns are changing faster than at any other point. It's also the period when dehydration risk is highest — and when most people aren't tracking closely enough to notice.
